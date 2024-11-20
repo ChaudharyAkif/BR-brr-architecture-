@@ -1,0 +1,13 @@
+#hero{
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    height:100vh;
+    width:100vw ;
+    background-position: center;
+    background-size: cover;
+}
+#Project .card img{
+    margin-bottom: 16px;
+
+}#About  img{
+    filter: grayscale(70%);
+}
